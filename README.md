@@ -26,13 +26,6 @@ To get started with Chatterease, follow these simple steps:
 
 5. **Enjoy Your Conversations:** Engage in real-time conversations, share files, and make the most of Chatterease's features.
 
-## Screenshots
-
-![Screenshot 1](Screenshots/Screenshot%20_1.png)
-![Screenshot 2](Screenshots/Screenshot%20_2.png)
-![Screenshot 3](Screenshots/Screenshot%20_3.png)
-![Screenshot 4](Screenshots/Screenshot%20_4.png)
-![Screenshot 5](Screenshots/Screenshot%20_5.png)
 
 ## Deployed Links
 
